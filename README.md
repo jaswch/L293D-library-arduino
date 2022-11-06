@@ -56,6 +56,6 @@ nothing(void).
 
 
 
-Pinout:
+# Pinout:
 
 ![Pinout](/L293Dlib/L293D_Pinout.jpg)
