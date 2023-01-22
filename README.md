@@ -9,7 +9,7 @@ Description:
 sets the speed of the motor.
 
 Syntax:
-motor.motorSpeed(speed)
+`motor.motorSpeed(speed)`
 
 Parametres:
 speed:the speed of the motor between 0 to 255.
