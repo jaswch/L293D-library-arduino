@@ -45,7 +45,7 @@ Description:
 stops the motor.
 
 Syntax:
-motor.stopMotor()
+`motor.stopMotor()`
 
 Returns:
 nothing(void).
