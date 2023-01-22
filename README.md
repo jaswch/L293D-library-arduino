@@ -34,7 +34,7 @@ Description:
 turns the motor backward.
 
 Syntax:
-motor.backward()
+`motor.backward()`
 
 Returns:
 nothing(void).
