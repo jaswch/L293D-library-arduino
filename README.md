@@ -23,7 +23,7 @@ Description:
 turns the motor forward.
 
 Syntax:
-motor.forward()
+`motor.forward()`
 
 Returns:
 nothing(void).
