@@ -1,6 +1,6 @@
 # L293D-library-arduino
 
-A library for the L293D motor driver.
+A simple library for the L293D motor driver.
 
 # Functions:
 
