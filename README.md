@@ -2,9 +2,21 @@
 
 A simple library for the L293D motor driver.
 
-# Functions:
+# Documentation
 
-# motorSpeed():
+## Definition
+Description:
+creating an object
+
+Syntax:
+`L293Dlib motor(Enable Pin, IN1 or IN3 Pin, IN2 or IN4 Pin)`
+
+Parameters:
+1. Enable Pin: Arduino pin no. to which the enable pin of L293D is connected
+2. IN1 or IN3 Pin: Arduino pin no. to which the IN1 or IN3 pin of L293D is connected
+3. IN2 or IN4 Pin: Arduino pin no. to which the IN2 or IN4 pin of L293D is connected
+
+## motorSpeed()
 Description:
 sets the speed of the motor.
 
@@ -18,7 +30,7 @@ Returns:
 nothing(void).
 
 
-# forward():
+## forward()
 Description:
 turns the motor forward.
 
@@ -29,7 +41,7 @@ Returns:
 nothing(void).
 
 
-# backward():
+## backward()
 Description:
 turns the motor backward.
 
